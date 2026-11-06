@@ -25,5 +25,4 @@ Questions, bug reports, and ideas are handled on the [ChoutesOS Discord server](
 ---
 
 <sub>© 2026 ChoutesOS. All rights reserved. ChoutesOS and the ChoutesOS logo are trademarks of ChoutesOS.<br>
-Linux® is the registered trademark of Linus Torvalds in the U.S. and other countries. Arch Linux, KDE, and Plasma are trademarks of their respective owners.<br>
 ChoutesOS is an independent project and is not affiliated with Arch Linux.</sub>
