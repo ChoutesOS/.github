@@ -20,9 +20,9 @@ Brand assets and the default community files of ChoutesOS on GitHub.
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to report problems and submit changes |
 | [SECURITY.md](SECURITY.md) | How to report security vulnerabilities |
 
-Questions, bug reports, and ideas are handled on the [ChoutesOS Discord server](https://discord.gg/nYdsKv7Fra).
+Bug reports and suggestions go to the [issue tracker](https://github.com/ChoutesOS/choutesos/issues); questions and help to the [ChoutesOS Discord server](https://discord.gg/nYdsKv7Fra).
 
 ---
 
-<sub>© 2026 ChoutesOS. All rights reserved. ChoutesOS and the ChoutesOS logo are trademarks of ChoutesOS.<br>
-ChoutesOS is an independent project and is not affiliated with Arch Linux.</sub>
+<sub>© 2026 ChoutesOS. All rights reserved.<br>
+The name and logo are trademarks. An independent project, not affiliated with Arch Linux.</sub>

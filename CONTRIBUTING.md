@@ -2,17 +2,21 @@
 
 Thank you for your interest in ChoutesOS. By taking part in the project you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Questions, bug reports, and ideas
+## Bug reports and suggestions
 
-ChoutesOS handles questions, bug reports, and feature requests on the [ChoutesOS Discord server](https://discord.gg/nYdsKv7Fra). GitHub issues and discussions are not used.
+Report bugs and suggest features or improvements in the [issue tracker](https://github.com/ChoutesOS/choutesos/issues), with the [bug report](https://github.com/ChoutesOS/choutesos/issues/new?template=bug_report.yml) or [suggestion](https://github.com/ChoutesOS/choutesos/issues/new?template=suggestion.yml) form. Search the open issues first; if the problem is already there, add what you know to it.
 
 When you report a problem, describe what you did, what you expected, and what happened instead. Run `choutesos-diag` in Konsole and attach the file `choutesos-diag.txt` from your home folder; it lists the system, graphics, and driver details needed to look into the problem.
+
+## Questions and help
+
+Ask questions and get help on the [ChoutesOS Discord server](https://discord.gg/nYdsKv7Fra) and in the [wiki](https://wiki.choutes.com).
 
 Report security vulnerabilities privately, as described in the [security policy](SECURITY.md).
 
 ## Changes to ChoutesOS
 
-The source repositories of ChoutesOS are maintained by the ChoutesOS team. If you would like to help with code, artwork, translations, or testing, introduce yourself on the [ChoutesOS Discord server](https://discord.gg/nYdsKv7Fra) and describe what you would like to work on. The team gives access to the repositories that the work needs.
+The source repositories are maintained by the ChoutesOS team. If you would like to help with code, artwork, translations, or testing, introduce yourself on the [ChoutesOS Discord server](https://discord.gg/nYdsKv7Fra) and describe what you would like to work on. The team gives access to the repositories that the work needs.
 
 Do not share secrets, private keys, passwords, or access tokens, in any channel.
 
